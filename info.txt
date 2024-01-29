@@ -1,0 +1,9 @@
+variables and data
+funcs
+obj and arrays
+dom manipulation
+events
+asyncrhonous
+scope and hoisting
+es6+ features
+modules
